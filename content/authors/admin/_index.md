@@ -6,8 +6,8 @@ title: 刘亚林
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yalin
+last_name: Liu
 
 # Status emoji
 status:
