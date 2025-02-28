@@ -15,10 +15,25 @@ sections:
       title: '📚 Welcome'
       subtitle: ''
       text: |-
-        This is my website! I personally use it to record my life, acadimic outputs and storage some precious photos!
-        Please reach out to collaborate 😃
+        This is my website!  
+        I am currently seeking for the admission to Peking University to begin my. I graduated from Renmin University in 2024, Economics & Mathematics Dual-Degree Program. In my free time, I like to read history books and watch Harry Potter movies. You can contact me via email 2020200745@ruc.edu.cn.😃
     design:
-      columns: '1'
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: background.jpg
+          # Apply image filters?
+          filters: true
+          # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+          brightness: 0.6
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
     
   - block: resume-biography-3
     id: Bio
@@ -110,3 +125,10 @@ sections:
   
   
 ---
+  - Undergraduate Thesis: Fiscal Decentralization and Economic Growth in late Qing Dynasty
+    summary: |
+      In this paper, we borrow the "M-form" and "U-form" of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems. 
+      The paper argues that in the late Qing, where official corruption and information asymmetry were serious, this decentralized system was conducive to leveraging local information advantages and stimulating social innovation. 
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'

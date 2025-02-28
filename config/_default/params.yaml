@@ -37,6 +37,8 @@ header:
     logo:
       text: "Yalin's website"
       filename: "logo.svg"
+
+
 # Site footer
 footer:
   copyright:

@@ -72,13 +72,6 @@ education:
       - Probility Theory, Mathematical Statistics, Stochastic Process
       - Geometric topology, Functional Analysis
   
-  - Undergraduate Thesis: Fiscal Decentralization and Economic Growth in late Qing Dynasty
-    summary: |
-      In this paper, we borrow the "M-form" and "U-form" of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems. 
-      The paper argues that in the late Qing, where official corruption and information asymmetry were serious, this decentralized system was conducive to leveraging local information advantages and stimulating social innovation. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
 
 
 
