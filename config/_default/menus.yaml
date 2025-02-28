@@ -11,7 +11,7 @@ main:
     url: /#bio
     weight: 11
   - name: Papers
-    url: /#papers
+    url: papers/
     weight: 12
   - name: Blog
     url: blog/
