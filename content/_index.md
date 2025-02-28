@@ -9,7 +9,19 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: markdown
+    id: Home
+    content:
+      title: '📚 Welcome'
+      subtitle: ''
+      text: |-
+        This is my website! I personally use it to record my life, acadimic outputs and storage some precious photos!
+        Please reach out to collaborate 😃
+    design:
+      columns: '1'
+    
   - block: resume-biography-3
+    id: Bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -30,20 +42,10 @@ sections:
           size: cover
           position: center
           parallax: false
-  
-  - block: markdown
-    content:
-      title: '📚 Welcome'
-      subtitle: ''
-      text: |-
-        This is my website! I personally use it to record my life, acadimic outputs and storage some precious photos!
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
 
 
   - block: collection
-    id: Photos
+    id: papers
     content:
       title: Precious Photos
       filters:
@@ -54,7 +56,7 @@ sections:
       columns: 1
   
   - block: collection
-    id: Blog
+    id: blog
     content:
       title: Recent Blog
       subtitle: ''
@@ -82,5 +84,29 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+  - block: collection
+    id: course
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+
+  - block: collection
+    id: experience
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+
+  
   
 ---
