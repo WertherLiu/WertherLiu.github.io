@@ -33,18 +33,11 @@ profiles:
   - icon: at-symbol
     url: 'mailto:2020200745@ruc.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yalin.cemao
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/WertherLiu
+
 
 interests:
   - Political Economy
@@ -52,60 +45,42 @@ interests:
   - Economic History
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Exchange Student in School of Economics
     institution: University College Dublin
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2022-12-31
+  
+  - area: BEc Economics
+    institution: Renmin University of China
+    date_start: 2020-09-01
+    date_end: 2024-06-21
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Courses included:
+      - Microeconomics(Principle & Intermediate), International Economics, Game Theory
+      - Macroeconomics(Principle & Intermediate), International Money & Banking
+      - Political Economy, Economic History, History of Economic Thought 
+      - Econometrics, Machline Learning, Operations Research
+  
+  - area: BSc Applied Mathematics
+    institution: Renmin University of China
+    date_start: 2020-09-01
+    date_end: 2024-06-21
+    summary: |
+      Courses included:
+      - Mathematical Analysis, Linear Algebra, Ordinary Differential Equations
+      - Real Analysis, Complex Analysis
+      - Probility Theory, Mathematical Statistics, Stochastic Process
+      - Geometric topology, Functional Analysis
+  
+  -Undergraduate Thesis: Fiscal Decentralization and Economic Growth in late Qing Dynasty
+    summary: |
+      In this paper, we borrow the "M-form" and "U-form" of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems. 
+      The paper argues that in the late Qing, where official corruption and information asymmetry were serious, this decentralized system was conducive to leveraging local information advantages and stimulating social innovation. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: 
-    institution: Renmin University of China
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Applied Mathematics
-    institution: Renmin University of China
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,41 +121,30 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Third Prize of 'Huai Xin' Writing competition in Peking University
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2021-02-20'
+    awarder: Peking University
+  
+  - title: Headmaster's Scholarship of Renmin University
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    awarder: Renmin University of China
+
+  - title: Second Prize of Beijing area in14th CMC (Chinese Mathematics Competition)
+    date: '2021-09-21'
+    awarder: Chinese Mathematical Association
+
+
 ---
 
 ## About Me
 
-Now Yalin Liu is seeking for the 
+I am currently seeking for the admission to Peking University to begin my. I graduated from Renmin University in 2024, Economics & Mathematics Dual-Degree Program. In my free time, I like to read history books and watch Harry Potter movies. You can contact me via email 2020200745@ruc.edu.cn.
+
+这是刘亚林的主页！
