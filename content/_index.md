@@ -42,7 +42,7 @@ sections:
       columns: '1'
 
 
-  - block: Photos
+  - block: collection
     id: Photos
     content:
       title: Precious Photos

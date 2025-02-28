@@ -139,8 +139,6 @@ awards:
   - title: Second Prize of Beijing area in14th CMC (Chinese Mathematics Competition)
     date: '2021-09-21'
     awarder: Chinese Mathematical Association
-
-
 ---
 
 ## About Me
