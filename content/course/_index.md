@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Course
 summary: My courses
 type: landing
 
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: course
     content:
-      title: Teaching
+      title: course
       filters:
         folders:
-          - teaching
+          - course
     design:
       view: article-grid
       columns: 2
