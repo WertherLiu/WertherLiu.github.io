@@ -1,5 +1,5 @@
 ---
-title: 'Course'
+title: 'Experience'
 date: 2024-05-19
 type: landing
 
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: All my precious moments
+      text: Here are a selection of momentss that I should record over the years.
       filters:
         folders:
-          - project
+          - moment
     design:
       view: article-grid
       fill_image: false
