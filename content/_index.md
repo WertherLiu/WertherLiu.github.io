@@ -10,7 +10,6 @@ design:
 
 sections:
   - block: markdown
-    id: Home
     content:
       title: '📚 Welcome'
       subtitle: ''
