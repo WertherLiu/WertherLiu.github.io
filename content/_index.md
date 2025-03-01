@@ -18,11 +18,11 @@ sections:
       <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
         <h1>📚 Welcome to Yalin Website</h1>
       </div>
-    text: |
+    text: |-
     design:
-    columns: '1'
-    spacing:
-      padding: [0, 0, 0, 0]
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: collection
     id: blog
