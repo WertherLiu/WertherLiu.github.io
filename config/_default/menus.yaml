@@ -5,13 +5,13 @@
 
 main:
   - name: Home
-    url: /
+    url: home/
     weight: 10
   - name: Bio
-    url: /#bio
+    url: bio/
     weight: 11
-  - name: Papers
-    url: papers/
+  - name: Paper
+    url: paper/
     weight: 12
   - name: Blog
     url: blog/
