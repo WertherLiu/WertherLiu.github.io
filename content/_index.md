@@ -32,7 +32,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "This is yalin's website"
+      text: "I am currently seeking for the admission to Peking University to begin my life as a graudate student. Before that, I graduated from Renmin University in 2024, Economics & Mathematics Dual-Degree Program.You can contact me via email 2020200745@ruc.edu.cn."
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -54,14 +54,18 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Precious Photos
+      title: Papers
       filters:
         folders:
           - event
     design:
-      view: article-grid
-      columns: 1
-  
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: card
+
+
+
   - block: collection
     id: blog
     content:
