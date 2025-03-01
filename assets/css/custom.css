@@ -1,0 +1,21 @@
+/* 针对大屏幕（电脑）的样式 */
+@media (min-width: 992px) {
+    .container {
+      padding-left: 1rem; /* 左边距 */
+      padding-right: 1rem; /* 右边距 */
+    }
+    .section {
+      margin-bottom: 2rem; /* 区块之间的间距 */
+    }
+  }
+  
+  /* 针对小屏幕（手机）的样式 */
+  @media (max-width: 991.98px) {
+    .container {
+      padding-left: 0.5rem; /* 左边距 */
+      padding-right: 0.5rem; /* 右边距 */
+    }
+    .section {
+      margin-bottom: 1rem; /* 区块之间的间距 */
+    }
+  }

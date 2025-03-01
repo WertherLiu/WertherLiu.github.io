@@ -45,7 +45,7 @@ interests:
   - Economic History
 
 education:
-  - area: Exchange Student in School of Economics
+  - area: Exchange Student 
     institution: University College Dublin
     date_start: 2022-09-01
     date_end: 2022-12-31
