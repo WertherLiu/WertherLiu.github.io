@@ -13,6 +13,7 @@ design:
 
 sections:
   - block: markdown
+    id: home
     content:
       title: '📚 Welcome'
       subtitle: ''
@@ -25,27 +26,9 @@ sections:
           filename: background.jpg
           filters:
             brightness: 1.0
-          size: actual
+          size: contain
           position: center
           parallax: false
-  
-  
-
-
-  - block: collection
-    id: papers
-    content:
-      title: Papers
-      filters:
-        folders:
-          - event
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      # Choose your content listing view - here we use the `showcase` view
-      view: card
-
-
 
   - block: collection
     id: blog
@@ -77,28 +60,5 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-  - block: collection
-    id: course
-    content:
-      title: Course Materials
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
 
-  - block: collection
-    id: experience
-    content:
-      title: Experience
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-
-  
-  
 ---
