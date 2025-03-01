@@ -14,7 +14,10 @@ sections:
       title: '📚 Welcome'
       subtitle: ''
       text: |-
-        This is my website!  I am currently seeking for the admission to Peking University to begin my. I graduated from Renmin University in 2024, Economics & Mathematics Dual-Degree Program. In my free time, I like to read history books and watch Harry Potter movies. You can contact me via email 2020200745@ruc.edu.cn.😃
+        This is my website!  I am currently seeking for the admission to Peking University to begin my. I graduated from Renmin University in 2024, Economics & Mathematics Dual-Degree Program. In my free time, I like to read history books and watch Harry Potter movies. You can contact me via email 2020200745@ruc.edu.cn.
+        这是刘亚林的个人主页。最喜欢的一首词是：
+        一顆櫻桃樊素口。不愛黃金，只愛人長久。學畫鴉兒猶未就，眉間已作傷春皺。
+        撲蝶西園隨伴走。花落花開，漸解相思瘦。破鏡重圓人在否，章臺折儘青青柳。
     design:
       columns: '1'
     
