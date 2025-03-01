@@ -6,7 +6,10 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
+  margin: 2px
+  padding: 2px
+
 
 sections:
   - block: markdown
@@ -23,8 +26,6 @@ sections:
           撲蝶西園隨伴走。花落花開，漸解相思瘦。破鏡重圓人在否，章臺折儘青青柳。
     design:
       columns: '1'
-      margin: 2px
-      padding: 2px
   
   - block: resume-biography-3
     id: Bio
