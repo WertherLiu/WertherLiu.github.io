@@ -14,10 +14,11 @@ design:
 sections:
   - block: markdown
     content:
-    text: |
+    title:
       <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
         <h1>📚 Welcome to Yalin Website</h1>
       </div>
+    text: |
     design:
     columns: '1'
     spacing:
