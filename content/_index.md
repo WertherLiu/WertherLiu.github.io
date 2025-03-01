@@ -17,6 +17,7 @@ sections:
         This is my website!  
         I am currently seeking for the admission to Peking University to begin my. I graduated from Renmin University in 2024, Economics & Mathematics Dual-Degree Program. In my free time, I like to read history books and watch Harry Potter movies. You can contact me via email 2020200745@ruc.edu.cn.😃
     design:
+      columns: '1'
       background:
         image:
           # Name of image in `assets/media/`.
@@ -124,10 +125,3 @@ sections:
   
   
 ---
-  - Undergraduate Thesis: Fiscal Decentralization and Economic Growth in late Qing Dynasty
-    summary: |
-      In this paper, we borrow the "M-form" and "U-form" of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems. 
-      The paper argues that in the late Qing, where official corruption and information asymmetry were serious, this decentralized system was conducive to leveraging local information advantages and stimulating social innovation. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
