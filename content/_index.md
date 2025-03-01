@@ -6,15 +6,6 @@ type: landing
 
 design:
   # Default section spacing
-  background:
-        image:
-          # Add your image background to `assets/media/`.
-          filename: background.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
   spacing: "3rem"
   margin: 2px
   padding: 2px
