@@ -14,11 +14,9 @@ design:
 sections:
   - block: markdown
     content:
-    title:
-      <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <h1>📚 Welcome to Yalin Website</h1>
-      </div>
+    title: ' 📚 Welcome to Yalin Website '
     text: |-
+    
     design:
       columns: '1'
       spacing:
