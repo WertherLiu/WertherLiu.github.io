@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
+title: Machine Learning
+summary: Undergraduate course in Renmin University of China 
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Python
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

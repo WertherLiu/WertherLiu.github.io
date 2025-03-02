@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: All my precious moments
-      text: Here are a selection of momentss that I should record over the years.
+      text: Here are a selection of moments that I should record over the years.
       filters:
         folders:
           - moment

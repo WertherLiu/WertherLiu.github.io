@@ -1,13 +1,12 @@
 ---
 title: Pandas
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+新安江游记
 
 <!--more-->
+皖南对我来讲是一个很新鲜的地区。我不曾到过那里，没有亲身体验的第一手经历；不曾刻意去寻找关于该地的信息，因而对他的了解也很少。虽然我暗自里的确认为自己很向往古诗里的江南：嫩草如烟、雨恨云愁、草长莺飞、莲叶田田……但我从未将“江南”这个标签贴给皖南（事实上不论从地理还是文化上，皖南的的确确属于江南的一部分）。

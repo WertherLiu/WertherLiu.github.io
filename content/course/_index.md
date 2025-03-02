@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: course
     content:
-      title: course
+      title: Course
       filters:
         folders:
           - course
