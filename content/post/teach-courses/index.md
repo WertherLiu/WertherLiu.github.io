@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: 《亲密关系》读书笔记
+summary: 心理学入门读物
+date: 2024-02-25
 math: true
 authors:
   - admin
@@ -12,12 +12,13 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
+# 第1章：人际关系的构成
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+人类是社会化的动物，而人社会属性的核心部分正是对亲密关系的需要。与他人的关系还是我们生活的中心内容：关系处理得好会带来极大的快乐，处理得不好则会造成重大的创伤。
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## 亲密关系的性质
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+从6个方面界定亲密关系和泛泛之交，不存在单一的亲密关系：
 
 ## Video
 
