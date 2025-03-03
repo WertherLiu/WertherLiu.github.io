@@ -1,9 +1,9 @@
 ---
-title: Machine Learning
-summary: Undergraduate course in Renmin University of China 
+title: Learn Python
+summary: AI for Economists with Python(For Undergraduate student)
 date: 2023-10-24
 type: docs
-math: false
+math: true
 tags:
   - Python
 image:
