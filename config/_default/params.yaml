@@ -64,5 +64,9 @@ features:
     enable: false
 
 cover:
-  width: 600px
+  width: 200px
   height: auto
+
+font:
+  size: 12px
+  
