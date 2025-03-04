@@ -62,3 +62,7 @@ features:
     enable: true
   privacy_pack:
     enable: false
+
+cover:
+  width: 600px
+  height: auto

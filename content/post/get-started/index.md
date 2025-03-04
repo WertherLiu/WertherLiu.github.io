@@ -6,8 +6,6 @@ date: 2023-10-27
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  width: 300px
-  height: 100px
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
   focal_point: 'TopLeft'
 authors:
