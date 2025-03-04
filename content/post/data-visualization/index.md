@@ -9,6 +9,7 @@ tags:
   - Hugo Blox
   - Markdown
 image:
+  placement: 3
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
