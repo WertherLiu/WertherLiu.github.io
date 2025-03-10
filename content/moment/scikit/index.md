@@ -1,13 +1,16 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: 考研复试准备
+date: 2025-03-03
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
+- 数学课程复习
+  1. 数学分析
+  2. 高等代数
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+2.
+
 
 <!--more-->

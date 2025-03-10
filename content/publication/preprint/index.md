@@ -2,42 +2,23 @@
 title: "An example preprint / working paper"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: "2024-04-07"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article"]
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 清代财政制度在前期与后期呈现出截然不同的面貌。清代前期财政制度以“集权”“低税”为特征，配合科举制选拔的官僚集团、地方的“贤能政治”共同组成了中国古代国家治理体系。在这一体系下，清朝人口的大量增长，经济逐渐恢复。但人口的大量增长也给社会治理带来巨大压力，僵化的财政制度逐渐无法适应社会需要而解体。19世纪下半叶太平天国运动爆发后，地方督抚政治形成，“分权”“高税”的财政制度开始建立。既有观点大多对这一转变持有批评态度，认为分权阻碍了全国范围内统一税收体制的建立，延缓了经济发展。本文借用经济组织中的“M-form”和“U-form”对前清与晚清两种财政体制进行了刻画，构建模型对两种制度进行了比较。本文认为在晚清官场腐败、信息不对称情况严重的情况下，这种分权的制度有利于发挥地方的信息优势，激发社会创新活力。财政分权也更具灵活性，允许地方自行探索改革方案，为中国的近代化做出了重要贡献。
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- 财政分权
+- 经济增长
+- 改革
 
 featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -46,26 +27,5 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
