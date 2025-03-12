@@ -29,7 +29,7 @@ There are many mathematical structures, among which the following three structur
 
 Roughly speaking, a topological structure, or a topology for short, defined on a set, is the structure using which one can talk about the conception of neighborhoods of an element. As a result, with topology at hand, one can talk about the conception of continuity for maps defined on such sets.
 
-So topological structures lie in the center of analysis: it is the topology of \mathbb{R} (or \mathbb{R}^n) that allows us to talk about the continuity of (multi-variable) functions.
+So topological structures lie in the center of analysis: it is the topology of $\mathbb{R}$ (or $\mathbb{R}^n$) that allows us to talk about the continuity of (multi-variable) functions.
 
 Many conceptions and theorems we learned in mathematical analysis are topological, and one of the main goals of the first half of point-set topology is trying to extend these conceptions and theorems to more general spaces.
 
@@ -53,10 +53,3 @@ Topological property behind the Extremal Value Theorem: compactness of \([a, b]\
 
 Theorem (The Generalized Extremal Value Theorem) Let \(X , Y\) be topological spaces, and let \(f : X \to Y\) be a continuous map. Then for any compact subset \(A \subset X\) , the image \(f(A)\) is a compact subset in Y.
 
-{{< math >}}
-$$
-\begin{theorem}[The Generalized Extremal Value Theorem]
-Let \(X, Y\) be topological spaces, and let \(f : X \to Y\) be a continuous map. Then for any compact subset \(A \subset X\), the image \(f(A)\) is a compact subset in \(Y\).
-\end{theorem}
-$$
-{{< /math >}}
