@@ -3,11 +3,11 @@ title: "Fiscal Policy and Economic Development in Late Qing Dynasty"
 authors:
 - admin
 date: "2024-04-07"
-
+summary: My undergraduate thesis about Economic History in Qing Dynasty. 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['article']
 
 
 abstract: We borrow the ’U-form’ and ’M-form’ of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems.When official corruption and information asymmetry were serious, this decentralized system(M-form) was conducive to leveraging local information advantages and stimulating social innovation.
@@ -24,16 +24,16 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Shanghai 1930s'
-  focal_point: ""
-  preview_only: false
 
 ---
 
+I get inspirations from another article [*Coordinating Tasks in M-Form and U-Form Organisations*](https://sticerd.lse.ac.uk/dps/te/te458.pdf) when I joined the Macroeconomics seminar in Renmin University. This is the [slide](M&U-form.pdf) that I used in that seminar. 
+
+
 {{% callout note %}}
-** Below are some of the main points in this paper. 
+** Below are just some of the key points in my thesis. 
 {{% /callout %}}
 
-[Here is another slide about this paper](M&U-form.pdf)
 
 ## History Background
 
@@ -54,7 +54,6 @@ image:
 Suppose we have two regions A and B, each region needs to handle task1 and task2.
 
 - M form: each region has a manager(horizontal), leveraging information asymmetry  
-
 - U form each section has a manager(vertical), scale economy
 
 ```mermaid
@@ -66,7 +65,7 @@ graph TD
     Manager2 --> Task2A
     Manager2 --> Task2B
 ```
-<center>Figure 1: M-form</center>
+<center>Figure 1: U-form</center>
 
 ```mermaid
 graph TD
@@ -77,27 +76,27 @@ graph TD
     ManagerB --> Task1B
     ManagerB --> Task2B
 ```
-<center>Figure 1: M-form</center>
+<center>Figure 2: M-form</center>
 
 
 ## Mathematical Model
 
-Two parameters: $\p$ is the quality of the reform while $\lambda$ is about information flow
+Two parameters: $p$ is the quality of the reform while $\lambda$ is about information flow.
 
 ### Two sectors, Two regions
   - No Reform
   
   - Full Scale Reform
     
-    - $\V_0^MF$  M form with full scale reform
+    - $V_0^{MF}$  M form with full scale reform
   
-    - $\V_0^UF$  U form with full scale reform
+    - $V_0^{UF}$  U form with full scale reform
   
   - Reform with Experienment
   
-    - $\V_0^ME$  M form with experienment
+    - $V_0^{ME}$  M form with experienment
 
-<img src="01.png" alt="image-20240421084420494" style="zoom:50%;" />
+<img src="01.png" alt="image-20240421084420494" style="max-width: 100%; height: auto;" />
 <center>Figure 3: Comparison between M-from and U-from</center>
 
 **Conclusion:**
