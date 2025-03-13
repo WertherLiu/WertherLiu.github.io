@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Fiscal Policy and Economic Development in Late Qing Dynasty"
 authors:
 - admin
 date: "2024-04-07"
@@ -10,7 +10,7 @@ date: "2024-04-07"
 publication_types: ["article"]
 
 
-abstract: 清代财政制度在前期与后期呈现出截然不同的面貌。清代前期财政制度以“集权”“低税”为特征，配合科举制选拔的官僚集团、地方的“贤能政治”共同组成了中国古代国家治理体系。在这一体系下，清朝人口的大量增长，经济逐渐恢复。但人口的大量增长也给社会治理带来巨大压力，僵化的财政制度逐渐无法适应社会需要而解体。19世纪下半叶太平天国运动爆发后，地方督抚政治形成，“分权”“高税”的财政制度开始建立。既有观点大多对这一转变持有批评态度，认为分权阻碍了全国范围内统一税收体制的建立，延缓了经济发展。本文借用经济组织中的“M-form”和“U-form”对前清与晚清两种财政体制进行了刻画，构建模型对两种制度进行了比较。本文认为在晚清官场腐败、信息不对称情况严重的情况下，这种分权的制度有利于发挥地方的信息优势，激发社会创新活力。财政分权也更具灵活性，允许地方自行探索改革方案，为中国的近代化做出了重要贡献。
+abstract: We borrow the ’U-form’ and ’M-form’ of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems.When official corruption and information asymmetry were serious, this decentralized system(M-form) was conducive to leveraging local information advantages and stimulating social innovation.
 
 
 tags:
@@ -23,9 +23,92 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Shanghai 1930s'
   focal_point: ""
   preview_only: false
 
 ---
 
+{{% callout note %}}
+** Below are some of the main points in this paper. **{{% staticref "M&U-form.pdf" "newtab" %}}Here is another slide about this paper{{% /staticref %}}
+{{% /callout %}}
+
+
+## History Background
+
+  The fiscal system of the Qing Dynasty in the early period and the late period showed a very different face. 
+  
+  The fiscal system of the early Qing Dynasty was characterized by "centralized power" and "low taxes", which together with the bureaucratic group selected by the imperial examination system and the local "politics of virtue" formed the ancient Chinese national governance system.  Under this system, the population of the Qing Dynasty grew substantially and the economy gradually recovered. 
+  
+  However, the massive population growth also brought great pressure on social governance, and the rigid financial system gradually failed to adapt to the needs of society and disintegrated. After the outbreak of the Taiping Heavenly Kingdom Movement in the second half of the 19th century, the local governance gradually show up. The fiscal system of "decentralization" and "high taxes" began to be established. 
+
+## Innovation  
+  
+  Most of the established views were critical of this change, arguing that decentralization hindered the establishment of a unified tax system throughout the country and slowed down economic development. 
+  
+  In this paper, we borrow the "M-form" and "U-form" of economic organization to portray the two fiscal systems of the former Qing Dynasty and the late Qing Dynasty, and construct a model to compare the two systems. 
+  
+  The paper argues that in the late Qing, where official corruption and information asymmetry were serious, this decentralized system was conducive to leveraging local information advantages and stimulating social innovation. Fiscal decentralization was also more flexible, allowing localities to explore reform options on their own, making an important contribution to China's modernization.
+
+Suppose we have two regions A and B, each region needs to handle task1 and task2.
+
+- M form: each region has a manager(horizontal), leveraging information asymmetry  
+
+- U form each section has a manager(vertical), scale economy
+
+```mermaid
+graph TD
+    TopManager --> Manager1
+    TopManager --> Manager2
+    Manager1 --> Task1A
+    Manager1 --> Task1B
+    Manager2 --> Task2A
+    Manager2 --> Task2B
+```
+<center>Figure 1: M-form</center>
+
+```mermaid
+graph TD
+    TopManager --> ManagerA
+    TopManager --> ManagerB
+    ManagerA --> Task1A
+    ManagerA --> Task2A
+    ManagerB --> Task1B
+    ManagerB --> Task2B
+```
+<center>Figure 1: M-form</center>
+
+
+## Mathematical Model
+
+Two parameters: $\p$ is the quality of the reform while $\lambda$ is about information flow
+
+### Two sectors, Two regions
+  - No Reform
+  
+  - Full Scale Reform
+    
+    - $\V_0^MF$  M form with full scale reform
+  
+    - $\V_0^UF$  U form with full scale reform
+  
+  - Reform with Experienment
+  
+    - $\V_0^ME$  M form with experienment
+
+<img src="01.png" alt="image-20240421084420494" style="zoom:50%;" />
+<center>Figure 3: Comparison between M-from and U-from</center>
+
+**Conclusion:**
+
+(1) the U-form is better for carrying out reforms and yields a higher net present value when the quality of communication $\lambda$ is high;
+
+(2) the M-form is better for carrying out reforms when the quality of communication $\lambda$ is low; and the M-form with experimentation yields a higher net present value than either the U-form or the M-form without experimentation if in addition the uncertainty of reform blueprint $p < p^{*}$. 
+
+### Generalization( M sectors, N regions)
+**Conclusion:**
+
+(1) The U-form has a larger positive effect from the increase in the number of regions than the M-form.
+
+(2) The U-form also has a larger negative effect from the increase in the the number of funcitons than the M-form. 
+ 
