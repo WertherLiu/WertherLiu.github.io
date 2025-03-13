@@ -30,9 +30,11 @@ image:
 ---
 
 {{% callout note %}}
-** Below are some of the main points in this paper. **{{% staticref "M&U-form.pdf" "newtab" %}}Here is another slide about this paper{{% /staticref %}}
+** Below are some of the main points in this paper. 
 {{% /callout %}}
 
+
+**{{% staticref "M&U-form.pdf" "newtab" %}}Here is another slide about this paper{{% /staticref %}}
 
 ## History Background
 
