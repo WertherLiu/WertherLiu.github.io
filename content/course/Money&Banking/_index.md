@@ -1,6 +1,6 @@
 ---
 title: International Money and Banking
-type: landing
+type: section
 
 cascade:
   - _target:
@@ -10,12 +10,13 @@ cascade:
 
 sections:
   - block: collection
-    id: course
+    id: lecture
     content:
-      title: Course
+      title: International Money and Banking
       filters:
         folders:
           - Money&Banking
+        exclude_subdir: false
     design:
       view: article-grid
       columns: 2

@@ -11,12 +11,14 @@ cascade:
 
 sections:
   - block: collection
-    id: money-and-banking
+    id: course
     content:
-      title: Money and Banking
+      title: course
       filters:
         folders:
           - course
+        exclude_featured: false
+
     design:
       view: article-grid
       columns: 2
