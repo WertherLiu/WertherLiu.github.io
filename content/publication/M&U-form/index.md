@@ -31,7 +31,7 @@ I get inspirations from another article [*Coordinating Tasks in M-Form and U-For
 
 
 {{% callout note %}}
-** Below are just some of the key points in my thesis. 
+**Below are just some of the key points in my thesis.** 
 {{% /callout %}}
 
 
