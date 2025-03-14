@@ -5,7 +5,7 @@ type: landing
 
 cascade:
   - _target:
-      kind: page
+      kind: section
     params:
       show_breadcrumb: true
 
@@ -16,29 +16,7 @@ sections:
       title: Money and Banking
       filters:
         folders:
-          - course/Money&Banking
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    id: ai
-    content:
-      title: AI
-      filters:
-        folders:
-          - course/AI
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    id: topology
-    content:
-      title: Topology
-      filters:
-        folders:
-          - course/Topology
+          - course
     design:
       view: article-grid
       columns: 2
