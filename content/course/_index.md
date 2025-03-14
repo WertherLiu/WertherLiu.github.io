@@ -11,15 +11,35 @@ cascade:
 
 sections:
   - block: collection
-    id: course
+    id: money-and-banking
     content:
-      title: Course
+      title: Money and Banking
       filters:
         folders:
-          - course
+          - course/Money&Banking
     design:
       view: article-grid
       columns: 2
 
-  
+  - block: collection
+    id: ai
+    content:
+      title: AI
+      filters:
+        folders:
+          - course/AI
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    id: topology
+    content:
+      title: Topology
+      filters:
+        folders:
+          - course/Topology
+    design:
+      view: article-grid
+      columns: 2
 ---
