@@ -1,5 +1,5 @@
 ---
-title: Central Banks and Banking System
+title: Banks and Financial Intermediation
 summary: AI for Economists with Python(For Undergraduate student)
 date: 2022-09-15
 type: docs
@@ -9,7 +9,6 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-## 1.Banks and Financial Intermediation
 
 Though it is a fascinating topic, we will not have time to cover the [introduction of coins and paper](https://www.bilibili.com/video/BV1sa411B7S3/?spm_id_from=333.337.search-card.all.click) money as accepted means of payment. However, once money became accepted as a way to conduct transactions, the question arose of where people stored their money.
 
