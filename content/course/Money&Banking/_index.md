@@ -15,7 +15,7 @@ sections:
       title: Course
       filters:
         folders:
-          - course
+          - Money&Banking
     design:
       view: article-grid
       columns: 2
