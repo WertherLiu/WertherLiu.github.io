@@ -1,6 +1,5 @@
 ---
-title: Course
-summary: My courses
+title: International Money and Banking
 type: landing
 
 cascade:
