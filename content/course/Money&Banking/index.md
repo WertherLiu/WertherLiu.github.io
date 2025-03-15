@@ -1,6 +1,6 @@
 ---
 title: International Money and Banking
-type: section
+type: landing
 
 headless: false
 
@@ -16,7 +16,7 @@ image:
   focal_point: "Smart"
 
 sections:
-  - block: section
+  - block: collection
     id: lecture
     content:
       title: International Money and Banking
