@@ -4,12 +4,6 @@ type: landing
 
 headless: false
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
 image:
   filename: images.png
   caption: "机器学习课程"
