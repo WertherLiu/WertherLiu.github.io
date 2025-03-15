@@ -1,7 +1,7 @@
 ---
-title: Course
-summary: My courses
-type: landing
+title: 'Blog'
+date: 2024-05-19
+type: book
 
 design:
   # Section spacing
