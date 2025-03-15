@@ -17,6 +17,8 @@ sections:
       filters:
         folders:
           - course
+        types:
+          - course
         exclude_featured: false
 
     design:

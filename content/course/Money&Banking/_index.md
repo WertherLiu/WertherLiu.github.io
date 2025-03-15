@@ -1,12 +1,19 @@
 ---
 title: International Money and Banking
-type: section
+type: course
+
+headless: false
 
 cascade:
   - _target:
       kind: page
     params:
       show_breadcrumb: true
+
+image:
+  filename: images.png
+  caption: "机器学习课程"
+  focal_point: "Smart"
 
 sections:
   - block: collection
