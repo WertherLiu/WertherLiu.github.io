@@ -17,10 +17,10 @@ sections:
       filters:
         folders:
           - course
-        types:
-          - section
         exclude_featured: false
-        exclude_pages: true
+      sort:
+        by: weight
+        order: asc
     design:
       view: article-grid
       columns: 2
