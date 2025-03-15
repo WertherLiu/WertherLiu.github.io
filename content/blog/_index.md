@@ -15,7 +15,7 @@ sections:
         
       filters:
         folders:
-          - course
+          - blog
     design:
       view: article-grid
       fill_image: false
