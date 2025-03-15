@@ -2,7 +2,6 @@
 title: International Money and Banking
 type: landing
 
-headless: false
 
 image:
   filename: images.png
@@ -17,7 +16,7 @@ sections:
       filters:
         folders:
           - Money&Banking
-        exclude_subdir: false
+       
     design:
       view: article-grid
       columns: 2
