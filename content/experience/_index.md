@@ -1,5 +1,5 @@
 ---
-title: 'Blog'
+title: 'Experience'
 date: 2024-05-19
 type: landing
 
@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Blogs
-      text: These articles are my feelings and thoughts.
+      title: All my precious moments
+      text: Here are a selection of moments that I should record over the years.
       filters:
         folders:
-          - post
+          - experience
     design:
       view: article-grid
       fill_image: false

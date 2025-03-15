@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Papers'
 date: 2024-05-19
 type: landing
 
@@ -11,11 +11,12 @@ design:
 sections:
   - block: collection
     content:
-      title: All my precious moments
-      text: Here are a selection of moments that I should record over the years.
+      title: These are some of my work 
+      text:  
+        
       filters:
         folders:
-          - moment
+          - paper
     design:
       view: article-grid
       fill_image: false

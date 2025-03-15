@@ -1,5 +1,5 @@
 ---
-title: 'Papers'
+title: 'Blog'
 date: 2024-05-19
 type: landing
 
@@ -11,12 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: These are some of my work 
-      text:  
-        
+      title: Selected Blogs
+      text: These articles are my feelings and thoughts.
       filters:
         folders:
-          - publication
+          - blog
     design:
       view: article-grid
       fill_image: false
