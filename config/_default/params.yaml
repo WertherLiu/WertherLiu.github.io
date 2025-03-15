@@ -63,6 +63,9 @@ features:
   privacy_pack:
     enable: false
 
+# 确保未设置以下参数
+list_format: 0  # 0=列表，1=详细（可能影响章节显示）
+
 cover:
   width: 200px
   height: auto
