@@ -7,17 +7,4 @@ design:
   # Section spacing
   spacing: '5rem'
 
-# Page sections
-sections:
-  - block: section
-    content:
-      title: Selected Blogs
-      text: These articles are my feelings and thoughts.
-      filters:
-        folders:
-          - blog
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
 ---
