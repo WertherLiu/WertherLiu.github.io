@@ -5,7 +5,7 @@ type: landing
 
 cascade:
   - _target:
-      kind: section
+      kind: '*'
     params:
       show_breadcrumb: true
 
