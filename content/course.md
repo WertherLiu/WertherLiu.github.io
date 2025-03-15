@@ -3,11 +3,9 @@ title: Course
 summary: My courses
 type: landing
 
-cascade:
-  - _target:
-      kind: '*'
-    params:
-      show_breadcrumb: true
+design:
+  # Section spacing
+  spacing: '5rem'
 
 sections:
   - block: collection
