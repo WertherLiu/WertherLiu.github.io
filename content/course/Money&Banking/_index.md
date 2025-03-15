@@ -1,6 +1,6 @@
 ---
 title: International Money and Banking
-type: landing
+type: book
 
 
 image:
@@ -9,7 +9,7 @@ image:
   focal_point: "Smart"
 
 sections:
-  - block: collection
+  - block: section
     id: lecture
     content:
       title: International Money and Banking

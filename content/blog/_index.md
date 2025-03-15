@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: section
     content:
       title: Selected Blogs
       text: These articles are my feelings and thoughts.
