@@ -18,9 +18,9 @@ sections:
         folders:
           - course
         types:
-          - course
+          - section
         exclude_featured: false
-
+        exclude_pages: true
     design:
       view: article-grid
       columns: 2

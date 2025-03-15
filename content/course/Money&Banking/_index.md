@@ -1,6 +1,6 @@
 ---
 title: International Money and Banking
-type: course
+type: section
 
 headless: false
 
