@@ -3,6 +3,7 @@ title: Topology
 summary: undergraduate course with focus on point topology
 date: 2024-02-21
 type: docs
+page_type: subpage
 math: true
 tags:
   - Topology

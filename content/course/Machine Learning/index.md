@@ -3,6 +3,7 @@ title: Machine Learning
 summary: Undergraduate course in Renmin University of China 
 date: 2023-10-24
 type: docs
+page_type: subpage
 math: true
 tags:
   - Python

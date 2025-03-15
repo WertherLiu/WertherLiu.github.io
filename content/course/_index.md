@@ -2,7 +2,7 @@
 title: Course
 summary: My courses
 type: landing
-
+page_type: section
 design:
   # Section spacing
   spacing: '5rem'
@@ -14,6 +14,9 @@ sections:
       text:  
         
       filters:
+        custom:
+          - field: page_type
+            value: [section, subpage]
         folders:
           - course
     design:

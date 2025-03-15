@@ -3,6 +3,7 @@ title: AI with Python
 summary: AI for Economists with Python(For Undergraduate student)
 date: 2023-10-24
 type: docs
+page_type: subpage
 math: true
 tags:
   - Python

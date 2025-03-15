@@ -3,6 +3,7 @@ title: Banks and Financial Intermediation
 summary: AI for Economists with Python(For Undergraduate student)
 date: 2022-09-15
 type: docs
+page_type: subpage
 math: true
 tags:
   - Macroeconomics
