@@ -1,0 +1,11 @@
+{{ range .Data.Pages }}
+  {{ if eq .Params.page_type "section" }}
+    <!-- 处理章节页面的逻辑 -->
+    <h2>{{ .Title }} (章节页面)</h2>
+    <p>{{ .Description }}</p>
+  {{ else }}
+    <!-- 处理子页面的逻辑 -->
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Date.Format "2006-01-02" }}</p>
+  {{ end }}
+{{ end }}
