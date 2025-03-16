@@ -12,7 +12,8 @@ sections:
     content:
       title: These are some of my work 
       text:  
-        
+      sort_by: 'Date'
+      sort_ascending: false  
       filters:
         custom:
           - field: page_type

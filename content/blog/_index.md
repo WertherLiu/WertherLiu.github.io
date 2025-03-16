@@ -12,10 +12,13 @@ sections:
     content:
       title: These are some of my work 
       text:  
-        
+      count: 0  
       filters:
         folders:
           - blog
+      sort_by: 'Date'
+      sort_ascending: false  
+    
     design:
       view: article-grid
       fill_image: false
