@@ -7,9 +7,8 @@ page_type: subpage
 math: true
 tags:
   - Python
-  - Jupyter Notebook
+  - Machine Learning
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 ## 第一讲：机器学习与Python概述

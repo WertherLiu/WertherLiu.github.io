@@ -1,13 +1,11 @@
 ---
 title: Central Banks
-summary: AI for Economists with Python(For Undergraduate student)
-date: 2022-09-15
+summary: Lecture 3 of this course
+date: 2022-09-22
 type: docs
 math: true
 tags:
   - Macroeconomics
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 In the earliest monetary systems, governments directly issuing coins or notes and used the proceeds to pay for government spending. This is not how money is created in modern advanced economies.
 
@@ -53,3 +51,26 @@ So it’s not important that a central bank’s balance sheet shows that its ass
 
 ## Quantitative Easing
 Since 2009, the Federal Reserve, the Bank of England and the Eurosystem have, at various times, engaged in programmes of large-scale asset purchases, known as Quantitative Easing (QE).
+
+This might look like the Fed bought bonds directly from the Federal government and paid by crediting their account. However, that is not the case. 
+
+Instead, what happened was the Federal government has borrowed huge amounts from the private sector and deposited it at the Fed. By borrowing money from the private sector, they stopped commercial bank reserves rising in 2020 by as much as they would have otherwise. They then spent it to fund the budget deficit.
+
+In many textbook treatments of macroeconomics, the focus of the central bank’s monetary policy is to control the amount of money that it issues, whether as cash or in the form of bank reserves. QE is an example of such a policy. Implementation of QE could be considered an downward shift in the LM curve in the classic IS-LM model.
+
+Over recent decades, however, the focus of central banks has generally not been on controlling the supply of money. Instead, central banks have used their money creation powers to influence the interest rates that people can borrow at.
+## Lender of Last Resort
+Because of their lender of last resort role, central banks are often given explicit mandates to maintain the stability of the financial system.
+
+There have been debates over the years about whether central banks should be involved in directly supervising banks.
+
+Some believe there could be conflicts of interest between supervisory objectives and monetary policy objectives such as price stability. I do not agree with those arguments. 
+
+I believe that involvement in banking supervision can be helpful to meeting monetary policy objectives and also makes the central bank’s lender of last resort policy function more efficient. See my [paper](Karl.pdf) “Should Monetary Policy be Separated From Banking Supervision?” for a discussion of these issues.
+
+## Finance Government Spending
+We have noted already that central bank money creation can provide government with a source of revenue and this source of revenue has, at certain times and places, been an important one for governments.
+
+In recent years, economists advocating a “‘Modern Monetary Theory” (MMT) have advocated that central banks should print money to finance large amounts of government expenditure. They recommend that if the economy overheats, the government can take money out of circulation by raising taxes.
+
+In practice, however, most modern central banks operate independently from fiscal authorities and often have explicit bans on using money creation to finance government spending.

@@ -1,17 +1,15 @@
 ---
 title: Liquidity and Solvency
-summary: AI for Economists with Python(For Undergraduate student)
-date: 2022-09-15
+summary: Lecture 2 of this course
+date: 2022-09-19
 type: docs
 page_type: subpage
 math: true
 tags:
   - Macroeconomics
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-### Defination of Liquidity and Solvency
+## Defination of Liquidity and Solvency
 Here’s our theoretical bank balance sheet from earlier:
 | Assets (Uses of Funds) | Amount (€) | Liabilities and Equity (Sources of Funds) | Amount (€) |
 |-----------------------|------------|------------------------------------------|------------|
@@ -25,7 +23,7 @@ The bank’s solvency situation refers €10 entry for equity capital. This tell
 
 Despite its importance, most journalists and politicians do not understand the distinction between solvency and liquidity and so cannot distinguish between equity capital and cash reserves.
 
-### Difference between book value and market value of bank equity.
+## Difference between book value and market value of bank equity.
 
 The level of equity capital depends on the valuation that is applied to the assets. The published accounts of a bank represent the bank’s own valuation of its assets. These accounts are accompanied by a statement by the bank’s external auditors that they believe the bank’s assessments are valid.
 
@@ -39,13 +37,13 @@ The bank’s shareholders have a share in any positive value that currently exis
 
 For this reason, the market value of a bank (calculated as what it would take to buy all the bank’s shares on the stock market) has traditionally greater than the book value listed in its accounts.
 
-### Regulations related to solvency and liquidity. 
+## Regulations related to solvency and liquidity. 
 - Liquidity Regulations:
     - Reserve Requirements. These are minimum fractions of deposits that must be kept in cash or balances at a central bank.
 - Solvency Regulations (also known as Capital Adequacy Regulations):
     - These relate to how much equity capital a bank must have. Usually expressed as a ratio: The bigger the bank, the more equity capital required. 
 
-### Solvency and Liquidity problems can occur together.
+## Solvency and Liquidity problems can occur together.
 Illiquidity Can Lead to Insolvency And Vice Versa. Solvency and liquidity are different things. But, at times, they can interact with each other.
 
 Banks usually have enough cash or liquid securities on hand to cope with withdrawals.If not, they can usually borrow funds from other banks or the bond market. Sometimes, however, large withdrawals occur because depositors believe the bank is insolvent: They fear the bank doesn’t have enough funds to pay back everyone and they want to get their money out in time.
@@ -53,10 +51,3 @@ Banks usually have enough cash or liquid securities on hand to cope with withdra
 If these redemptions exhaust the bank’s liquid assets and financial markets also don’t trust the bank and won’t lend to them, then the bank will run out of liquid assets.At this point, the possibility that the bank has a solvency problem turns into a liquidity problem. Often, banks in this position turn to the government for help.
 
 Alternatively, banks that need to sell assets quickly because of liquidity problems may have to incur losses on these sales, so a liquidity problem turns into a solvency problem.
-
-## Monetary Policy
-
-
-
-
-## Exchange Rate Regime and the Euro
