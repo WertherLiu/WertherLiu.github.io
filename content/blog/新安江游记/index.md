@@ -6,6 +6,7 @@ tags:
   - 旅行
 image:
   focal_point: "Smart"
+  size: "cover"
 ---
 新安江游记
 
