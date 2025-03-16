@@ -12,6 +12,7 @@ sections:
     content:
       title: These are some of my work 
       text:  
+      count: 0
       sort_by: 'Date'
       sort_ascending: false  
       filters:
