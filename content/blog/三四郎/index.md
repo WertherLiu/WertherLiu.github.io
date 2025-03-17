@@ -11,12 +11,8 @@ tags:
 我总是在想，如果我上大学前就读过这本小说，可能对爱情会有更深的了解吧。
 
 <img src="三四郎池.jpg" alt="img" style="max-width: 100%; height: auto;">
-
 <center>东京大学校园内的三四郎池</center>
 
-
-
-<img src="新安江游记.png" alt="img" style="max-width: 100%; height: auto;">
 
 ## 二
 - 呼吸了这么清净的空气，大概就会自然而然产生那种情绪：自己索性与活生生的现实世界斩却一切瓜葛，一心一意就此度过人生吧。
